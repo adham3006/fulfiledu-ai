@@ -10,4 +10,18 @@
   src: url("./assets/fonts/Staatliches-Regular.ttf");
 }
 
+.btn_registration {
+  width: 320px;
+  height: 50px;
+  padding: 13px 98px;
+  border-radius: 12px;
+  border: #19A852;
+  background-color: #19A852;
+  color: #fff;
+  font-family: 'Gilroy';
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+}
+
 /* General CSS tugadi */
