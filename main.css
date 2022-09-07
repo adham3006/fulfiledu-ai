@@ -10,7 +10,7 @@
   src: url("./assets/fonts/Staatliches-Regular.ttf");
 }
 
-.btn_registration {
+.btn {
   width: 320px;
   height: 50px;
   padding: 13px 98px;
@@ -25,3 +25,14 @@
 }
 
 /* General CSS tugadi */
+
+
+
+/* For_whom boshlandi */
+.for_whom {
+  padding: 0 8%;
+}
+
+
+/* For_whom tugadi */
+
