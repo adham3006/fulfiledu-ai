@@ -30,8 +30,52 @@
 
 /* For_whom boshlandi */
 .for_whom {
-  padding: 0 8%;
+margin: 0;
+padding: 0;
 }
+
+.kurs_kimlar_uchun{
+  width: 1200px;
+  padding: 0px 120px;
+  height: 450px;
+}
+
+.kurs_kimlar_uchun p {
+  font-family: Staatliches;
+  font-size: 3.75rem;
+  font-weight: 400;
+  color: #193C3F;
+}
+
+.kurs_kimlar_uchun span {
+  color: #19A852;
+}
+
+.mini_sections {
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row wrap;
+}
+
+.box_ellipse {
+display: flex;
+justify-content: center;
+align-items: center;
+box-sizing: border-box;
+width: 105px;
+height: 105px;
+left: 86px;
+top: 0px;
+border-radius: 50%;
+background: rgba(255, 255, 255, 0.2);
+border: 1px solid  #ABD8C4;
+}
+
+.box_ellipse img {
+  width:70px;
+  height:70px ;
+}
+
 
 
 /* For_whom tugadi */
